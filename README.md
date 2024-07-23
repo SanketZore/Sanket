@@ -37,6 +37,16 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
 
-## GitHub Stats:
-## GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanketZore&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketZore&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SanketZore&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SanketZore&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanketZore&show_icons=true&theme=radical)
