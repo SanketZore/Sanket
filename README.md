@@ -1,10 +1,13 @@
 # Hey fellow developers!
-I'm Shruti Epili, passionate about full-stack development.
-With a knack for crafting clean and efficient code,
-I'm always eager to collaborate on innovative projects.
-Here, you'll find repositories that reflect my journey
-and growth in the tech realm.
-Let's build something awesome together! 💡
+  I'm Sanket Zore.
+  - Innovative Full Stack Developer with expertise
+  in the MERN stack (MongoDB, Express, React.js, Node.js)and 
+  Java development (Spring Boot).
+  - Experienced in end-to-end software and backend development,
+  data analysis, and visualization. Detail-oriented,
+  adept at problem-solving, and highly adaptable.
+  - Committed to delivering high-quality software
+  solutions that meet user needs and business goals. 💡
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
