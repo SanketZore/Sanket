@@ -38,4 +38,5 @@
 ![JPA](https://img.shields.io/badge/JPA-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanketZore&show_icons=true&theme=radical)
